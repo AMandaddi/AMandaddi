@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
 </div>
-
+---
 <div align="left">
 
 ### :woman_technologist: About Me :
@@ -30,8 +30,8 @@
 - 📫 Reach me at: anushamandaddi@gmail.com for project collaborations, data-driven insights, or simply to chat about technology and art.
 - 🤝 Let’s connect! I’m always up for discussing new AI projects, data exploration, or exchanging creative ideas.
 
+----
 
----
 ### 💻 Tech Stack : 
   <div>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" title="python" alt="Python" width="60" height="60"/>&nbsp;
