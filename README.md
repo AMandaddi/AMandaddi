@@ -1,8 +1,8 @@
 </div>
-  <h1>
+  <h2>
   HELLO CONNECTIONS
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-
+</h2>
 <div align="center">
 
 <img src="https://github.com/AMandaddi/AMandaddi/blob/main/Anusha.webp" width="350" height="200"/>
