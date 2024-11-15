@@ -2,9 +2,9 @@
   <h1>
   HELLO CONNECTIONS
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-</h1>
+<!-- </h1>
 <img src="https://komarev.com/ghpvc/?username=AMandaddi&style=flat-square&color=blue" alt="fig"/>
-</div>
+</div> -->
 
 <div align="center">
 
@@ -14,7 +14,6 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/anushamandaddi">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.hackerrank.com/profile/anushamandaddi">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
@@ -36,7 +35,7 @@
 
 
 ---
-### 🛠️: Languages and Tools :
+### 💻 Tech Stack : 
   <div>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" title="python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/90px-Pandas_mark.svg.png" title="Pandas (Software)" alt="Pandas (Software)" width="70" height="70"/>&nbsp;
@@ -49,4 +48,6 @@
  <img src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg" title="C" alt="C" width="60" height="60"/>&nbsp;
  
 </div>
+
   
+[![](https://visitcount.itsvg.in/api?id=krvipin15&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
